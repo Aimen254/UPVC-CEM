@@ -1,0 +1,774 @@
+[15-Nov-2022 16:36:05 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/babarras/public_html/app/Http/Controllers/UserWindowController.php on line 55
+[15-Nov-2022 16:37:00 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/babarras/public_html/app/Http/Controllers/UserWindowController.php on line 55
+[07-Dec-2022 07:18:09 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 10:12:54 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 10:12:55 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 10:12:56 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 10:12:57 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 10:12:57 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 10:12:58 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 10:12:59 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 10:13:00 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 10:13:00 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 10:13:01 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:00:57 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:01 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:01 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:01 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:07 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:07 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:07 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:07 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:07 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:07 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:07 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:01:07 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 12:22:35 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 14:08:59 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 14:09:00 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 14:09:01 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 14:43:41 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 15:32:07 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 15:41:55 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 16:20:45 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 16:45:44 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 17:15:30 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 17:17:01 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 17:49:12 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 18:23:10 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 18:23:10 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 19:00:42 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 19:17:05 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 19:54:10 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 20:20:24 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 20:48:33 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 21:05:01 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 21:16:53 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 21:49:34 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 21:54:53 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 21:54:55 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 21:55:22 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 22:16:00 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 22:31:51 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 22:31:51 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 22:58:02 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 23:14:03 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 23:15:45 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 23:20:00 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 23:21:30 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[07-Dec-2022 23:51:12 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[08-Dec-2022 00:17:32 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[08-Dec-2022 02:54:02 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in /home2/babarras/public_html/vendor/composer/platform_check.php on line 24
+[08-Dec-2022 14:57:49 Asia/Karachi] PHP Fatal error:  Cannot use RealRashid\SweetAlert\Facades\Alert as Alert because the name is already in use in /home2/babarras/public_html/app/Http/Controllers/LeadController.php on line 38
+[09-Dec-2022 18:19:29 Asia/Karachi] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/babarras/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 172
+[09-Dec-2022 18:20:13 Asia/Karachi] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/babarras/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 117
+[09-Dec-2022 18:20:52 Asia/Karachi] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/babarras/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 1690
+[09-Dec-2022 18:23:32 Asia/Karachi] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/babarras/public_html/vendor/spatie/laravel-permission/src/Traits/HasRoles.php on line 182
+[19-Dec-2022 10:26:16 Asia/Karachi] PHP Fatal error:  Cannot use App\Models\Reminder as Reminder because the name is already in use in /home2/babarras/public_html/app/Http/Controllers/LeadController.php on line 30
+[19-Dec-2022 10:26:28 Asia/Karachi] PHP Fatal error:  Cannot use App\Models\Reminder as Reminder because the name is already in use in /home2/babarras/public_html/app/Http/Controllers/LeadController.php on line 30
+[19-Dec-2022 10:43:46 Asia/Karachi] PHP Fatal error:  Cannot use App\Models\Reminder as Reminder because the name is already in use in /home2/babarras/public_html/app/Http/Controllers/LeadController.php on line 30
+[19-Dec-2022 10:43:54 Asia/Karachi] PHP Fatal error:  Cannot use App\Models\Reminder as Reminder because the name is already in use in /home2/babarras/public_html/app/Http/Controllers/LeadController.php on line 30
+[19-Dec-2022 12:59:36 Asia/Karachi] PHP Fatal error:  Cannot use App\Models\Reminder as Reminder because the name is already in use in /home2/babarras/public_html/app/Http/Controllers/LeadController.php on line 30
+[19-Dec-2022 13:34:58 Asia/Karachi] PHP Fatal error:  Cannot use App\Models\Reminder as Reminder because the name is already in use in /home2/babarras/public_html/app/Http/Controllers/LeadController.php on line 30
+[01-Mar-2023 15:25:37 Asia/Karachi] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/babarras/public_html/app/Http/Controllers/UserWindowController.php on line 3
+[01-Mar-2023 15:25:54 Asia/Karachi] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/babarras/public_html/app/Http/Controllers/UserWindowController.php on line 3
+[26-Apr-2023 18:16:28 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProjectWindowController::checkprofile() in /home2/babarras/public_html/app/Http/Controllers/ProjectWindowController.php on line 220
+[26-Apr-2023 18:44:11 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Models\Project::buraq() in /home2/babarras/public_html/app/Models/Project.php on line 63
+[02-May-2023 17:31:19 Asia/Karachi] PHP Fatal error:  Cannot use App\Models\ProjWindowAcces as ProjWindowAcces because the name is already in use in /home2/babarras/public_html/app/Http/Controllers/ProjectController.php on line 24
+[02-Jun-2023 23:05:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home2/babarras/public_html/xmPlE.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/xmPlE.php on line 2
+[12-Jul-2023 20:18:05 America/Boise] PHP Warning:  Undefined array key "action" in /home2/babarras/public_html/style2.php on line 175
+[31-Jul-2023 01:53:24 America/Boise] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /tmp/phpuzI6gF(29) : eval()'d code(1) : eval()'d code:219
+Stack trace:
+#0 /tmp/phpuzI6gF(29) : eval()'d code(1) : eval()'d code(388): findDirs('.', NULL)
+#1 /tmp/phpuzI6gF(29) : eval()'d code(1): eval()
+#2 /tmp/phpuzI6gF(29): eval()
+#3 /tmp/phpuzI6gF(32): clnt()
+#4 /home2/babarras/public_html/public/data.php(2): include('/tmp/phpuzI6gF')
+#5 {main}
+  thrown in /tmp/phpuzI6gF(29) : eval()'d code(1) : eval()'d code on line 219
+[01-Aug-2023 02:32:41 America/Boise] PHP Warning:  Undefined array key "ARRAY" in /home2/babarras/public_html/inputs.php on line 1
+[01-Aug-2023 17:46:48 PRC] PHP Fatal error:  Uncaught TypeError: array_unique(): Argument #1 ($array) must be of type array, null given in /home2/babarras/public_html/inputs.php(1) : eval()'d code(1) : eval()'d code:1900
+Stack trace:
+#0 /home2/babarras/public_html/inputs.php(1) : eval()'d code(1) : eval()'d code(1900): array_unique(NULL)
+#1 /home2/babarras/public_html/inputs.php(1) : eval()'d code(1): eval()
+#2 /home2/babarras/public_html/inputs.php(1): eval()
+#3 /home2/babarras/public_html/inputs.php(1): _::__()
+#4 {main}
+  thrown in /home2/babarras/public_html/inputs.php(1) : eval()'d code(1) : eval()'d code on line 1900
+[04-Aug-2023 22:55:01 America/Boise] PHP Warning:  Undefined array key "ARRAY" in /home2/babarras/public_html/inputs.php on line 1
+[08-Aug-2023 03:13:30 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 03:13:30 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 03:13:31 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 03:13:31 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 03:57:05 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 03:57:05 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 04:36:52 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 04:36:52 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 06:31:29 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 06:31:29 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 06:31:32 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 06:31:32 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 06:31:59 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 06:31:59 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 06:36:39 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 06:36:39 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 06:59:54 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 06:59:54 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 07:36:28 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 07:36:28 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 08:08:56 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 08:08:56 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 08:56:57 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 08:56:57 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 09:25:21 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 09:25:21 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 09:53:21 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 09:53:21 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 10:15:33 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 10:15:33 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 10:28:31 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 10:28:31 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 10:37:46 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 10:37:46 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 10:37:46 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 10:37:46 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 10:50:50 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 10:50:50 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 11:07:26 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 11:07:26 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 11:07:27 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 11:07:27 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 11:07:27 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 11:07:27 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 11:43:08 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 11:43:08 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 11:55:33 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 11:55:33 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:48 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:48 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:48 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:48 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:48 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:48 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:48 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:48 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:48 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:48 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:03:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:45:10 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 12:45:10 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 14:17:56 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 14:17:56 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 15:13:32 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 15:13:32 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 16:35:27 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 16:35:27 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 16:49:03 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 16:49:03 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 16:49:04 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 16:49:04 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 16:49:12 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 16:49:12 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 16:49:13 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 16:49:13 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 17:05:54 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 17:05:54 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 17:28:56 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 17:28:56 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 17:29:04 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 17:29:04 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 17:42:00 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 17:42:00 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 19:08:17 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 19:08:17 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 19:26:02 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 19:26:02 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 19:31:29 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 19:31:29 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 19:58:35 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 19:58:35 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 19:58:36 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 19:58:36 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 20:40:00 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 20:40:00 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 20:54:53 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 20:54:53 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:26:41 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:26:41 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:36:23 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:36:23 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:36:23 America/Boise] PHP Warning:  Undefined array key "ARRAY" in /home2/babarras/public_html/inputs.php on line 1
+[08-Aug-2023 21:36:23 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:36:23 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:36:24 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:36:24 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:36:24 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:36:24 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:36:37 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 18
+[08-Aug-2023 21:36:37 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 18
+[12-Aug-2023 03:04:30 America/Boise] PHP Warning:  Undefined array key "ARRAY" in /home2/babarras/public_html/inputs.php on line 1
+[21-Aug-2023 23:58:55 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[21-Aug-2023 23:58:55 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 00:00:06 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 00:00:06 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 00:50:41 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 00:50:41 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 00:50:55 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 00:50:55 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 00:53:16 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 00:53:16 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 00:53:16 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 00:53:16 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 02:29:10 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 02:29:10 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 03:10:07 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 03:10:07 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 03:11:48 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 03:11:48 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 03:48:29 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 03:48:29 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 03:48:30 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 03:48:30 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 04:10:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 04:10:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 04:23:32 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 04:23:32 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 04:23:33 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 04:23:33 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 05:26:35 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 05:26:35 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 05:56:27 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 05:56:27 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 07:04:44 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 07:04:44 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 07:39:35 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 07:39:35 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 07:50:11 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 07:50:11 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 07:50:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 07:50:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 09:26:49 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 09:26:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 10:09:23 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 10:09:23 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 10:19:10 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 10:19:10 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 10:19:11 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 10:19:11 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 10:19:43 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 10:19:43 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 10:20:11 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 10:20:11 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 11:28:14 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 11:28:14 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:06:38 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:06:38 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:06:38 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:06:38 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:06:38 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:06:38 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:06:38 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:06:38 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:36:44 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:36:44 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:54:53 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 12:54:53 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 13:05:22 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 13:05:22 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 13:07:06 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 13:07:06 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 13:14:29 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 13:14:29 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 13:39:07 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 13:39:07 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 13:49:15 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 13:49:15 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 14:46:38 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 14:46:38 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 15:19:09 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 15:19:09 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 15:21:03 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 15:21:03 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 16:42:03 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 16:42:03 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 16:53:07 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 16:53:07 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 16:53:10 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 16:53:10 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 17:49:18 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 17:49:18 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 17:49:38 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 17:49:38 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 18:50:53 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 18:50:53 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 18:54:55 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 18:54:55 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:07:15 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:07:15 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:07:21 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:07:21 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:15:37 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:15:37 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:15:38 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:15:38 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:15:39 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:15:39 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:15:40 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:15:40 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:36:41 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 19:36:41 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 20:19:59 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 20:19:59 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 21:23:12 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 21:23:12 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 21:37:52 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 21:37:52 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 21:38:21 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 21:38:21 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 21:55:25 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 21:55:25 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 21:55:45 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 21:55:45 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 23:03:00 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 23:03:00 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 23:47:24 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 23:47:24 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 23:47:25 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 23:47:25 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 23:47:26 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 23:47:26 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 23:47:27 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[22-Aug-2023 23:47:27 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[23-Aug-2023 00:02:11 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[23-Aug-2023 00:02:11 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[23-Aug-2023 00:04:00 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[23-Aug-2023 00:04:00 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[23-Aug-2023 00:04:00 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[23-Aug-2023 00:04:00 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[23-Aug-2023 00:04:01 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[23-Aug-2023 00:04:01 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21
+[23-Aug-2023 00:04:01 America/Boise] PHP Warning:  Undefined array key "ARRAY" in /home2/babarras/public_html/inputs.php on line 1
+[23-Aug-2023 00:04:01 America/Boise] PHP Warning:  require(/home2/babarras/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home2/babarras/public_html/index.php on line 21
+[23-Aug-2023 00:04:01 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/babarras/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/babarras/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/babarras/public_html/index.php on line 21

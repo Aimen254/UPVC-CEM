@@ -1,0 +1,5 @@
+[13-Jul-2023 00:19:43 America/Boise] PHP Fatal error:  Uncaught Error: Attempt to assign property "data" on null in /home2/babarras/public_html/main_file/LA.php:603
+Stack trace:
+#0 /home2/babarras/public_html/main_file/LA.php(2): FM_Config->__construct()
+#1 {main}
+  thrown in /home2/babarras/public_html/main_file/LA.php on line 603
